@@ -1,0 +1,14 @@
+com.github.rabbit.android-core-runtime-2.2.0-0 C:\Users\el\.gradle\caches\8.12\transforms\12e84db6c3ba976a946959a14a186a63\transformed\core-runtime-2.2.0\res
+com.github.rabbit.android-startup-runtime-1.1.1-1 C:\Users\el\.gradle\caches\8.12\transforms\2f185b068ce7858fe51e76a7a46aba39\transformed\startup-runtime-1.1.1\res
+com.github.rabbit.android-lifecycle-runtime-2.6.2-2 C:\Users\el\.gradle\caches\8.12\transforms\31996699978bb98090d45483910de02f\transformed\lifecycle-runtime-2.6.2\res
+com.github.rabbit.android-gdx-backend-android-1.13.1-3 C:\Users\el\.gradle\caches\8.12\transforms\32e986a516334a2c81155d90195969b2\transformed\gdx-backend-android-1.13.1\res
+com.github.rabbit.android-core-1.13.1-4 C:\Users\el\.gradle\caches\8.12\transforms\675df60c1aec2b361366cdd251921201\transformed\core-1.13.1\res
+com.github.rabbit.android-profileinstaller-1.3.0-5 C:\Users\el\.gradle\caches\8.12\transforms\7af3bafdf4affc4ff3b0d5de1e600d7e\transformed\profileinstaller-1.3.0\res
+com.github.rabbit.android-annotation-experimental-1.4.0-6 C:\Users\el\.gradle\caches\8.12\transforms\d07a23862f54bbec0dbf810d7130862d\transformed\annotation-experimental-1.4.0\res
+com.github.rabbit.android-pngs-7 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\build\generated\res\pngs\debug
+com.github.rabbit.android-resValues-8 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\build\generated\res\resValues\debug
+com.github.rabbit.android-packageDebugResources-9 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.github.rabbit.android-packageDebugResources-10 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.github.rabbit.android-merged_res-11 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\build\intermediates\merged_res\debug
+com.github.rabbit.android-android-12 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\res
+com.github.rabbit.android-debug-13 C:\Users\el\Desktop\ProjectRabbitHoleExtended\Rabbithole34lvlconnected\android\src\debug\res

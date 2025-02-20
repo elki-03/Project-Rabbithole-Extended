@@ -1,0 +1,7 @@
+#Mon Jan 20 06:13:03 CET 2025
+base.1=C\:\\Users\\el\\Desktop\\ProjectRabbitHoleExtended\\Rabbit012\\android\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\el\\Desktop\\ProjectRabbitHoleExtended\\Rabbit012\\android\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
